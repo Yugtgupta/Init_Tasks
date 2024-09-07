@@ -1,7 +1,3 @@
-Here’s the simplified README with the requested sections removed:
-
----
-
 # Sentiment Analysis on Amazon Reviews
 
 This project focuses on **sentiment analysis** of Amazon reviews by comparing traditional machine learning models and deep learning approaches. We have explored multiple models ranging from **Naive Bayes** and **Logistic Regression** to more advanced **LSTM** and **pre-trained BERT models**. The goal is to identify which model performs best in classifying **positive** and **negative** reviews.
