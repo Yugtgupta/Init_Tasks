@@ -5,6 +5,7 @@ This project focuses on **sentiment analysis** of Amazon reviews by comparing tr
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Dataset](#dataset)
 - [Models Used](#models-used)
 - [Data Preprocessing](#data-preprocessing)
 - [License](#license)
@@ -12,6 +13,10 @@ This project focuses on **sentiment analysis** of Amazon reviews by comparing tr
 ## Project Overview
 
 In this project, we compare the performance of various models for sentiment analysis on Amazon product reviews. The dataset includes customer reviews with corresponding sentiment labels (positive or negative). We apply both traditional machine learning and deep learning models to perform this task, showcasing the results and insights derived from each approach.
+
+## Dataset
+
+The dataset used for this project is available on Kaggle: [Amazon Reviews Dataset](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews).
 
 ## Models Used
 
